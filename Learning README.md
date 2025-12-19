@@ -66,20 +66,11 @@ java com.generation.StudentGenGUI
 ## 📸 GUI Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main-interface.png)
-*StudentGen main window with 8-button menu and output console*
-
 ### Student Registration
-![Student Registration](screenshots/register-student.png)
-*Registration form with validation*
 
-### Grading System
-![Grading](screenshots/grade-student.png)
-*Auto-grading with pass/fail status*
+![studentgen](https://github.com/user-attachments/assets/b9f97d8b-4242-4685-ab45-bdefb235651c)
 
-### Students Summary
-![Students Summary](screenshots/students-summary.png)
-*Complete student listing with enrolled courses and grades*
+
 
 ---
 
